@@ -1,0 +1,18 @@
+
+.header-nav__lista {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    
+
+
+}
+.header-nav__lista li a {
+    text-decoration: none;
+    color: black;
+    padding-left: 30px;
+    
+}
+
+    
+    
