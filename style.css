@@ -31,7 +31,7 @@ header {
 .header-nav__lista li a {
     
     color: black;
-    margin-right: 10px
+    margin-right: 10px;
     
 }
 
@@ -43,4 +43,33 @@ header {
     background-position: center;
     width: 25px;
     height: 25px;
+    cursor: pointer;
+}
+.header-lista__img a img {
+    border-radius: 50%;
+    margin-left: 10px;
+    height: auto;
+}
+main {
+    text-align: center;
+    margin-top: 150px;
+}
+.main-logo {
+    width: 530px;
+    margin: 0 auto;
+    
+}
+
+.main-logo img {
+    width: 280px;
+}
+.main-input {
+    width: 530px;
+    margin-bottom: 35px;
+    margin: 0 auto;
+}
+main .main-input__container {
+    width: 525px;
+    border-radius: 100px;
+    border: 1px solid rgb(218, 220, 224);
 }
